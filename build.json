@@ -1,0 +1,8 @@
+{
+	"output":	"build",
+	"filename":	"jform.js",
+	"files":	[
+		"src/core.js",
+		"src/modules/*.js"
+	]
+}
